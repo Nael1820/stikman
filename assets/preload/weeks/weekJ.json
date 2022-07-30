@@ -1,21 +1,12 @@
 {
 	"songs": [
 		[
-			"Cash Grab",
+			"Jizz-Cake",
 			"henry",
 			[
 				146,
-				153,
-				255
-			]
-		],
-		[
-			"Inside",
-			"henry",
-			[
-				146,
-				153,
-				255
+				113,
+				253
 			]
 		]
 	],
@@ -28,14 +19,14 @@
 		"",
 		""
 	],
-	"storyName": "Breaking Bad",
-	"weekName": "BtB",
+	"storyName": "jizzzzzzzzzzzzzzz",
+	"weekName": "kys",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"hideStoryMode": false,
+	"hideStoryMode": true,
 	"weekBefore": "tutorial",
 	"startUnlocked": true
 }
