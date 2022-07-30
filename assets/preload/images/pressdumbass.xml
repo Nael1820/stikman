@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pressdumbass.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="press0000" x="10" y="10" width="1280" height="721"/>
+	<SubTexture name="press0001" x="10" y="10" width="1280" height="721"/>
+	<SubTexture name="press0002" x="1300" y="10" width="1280" height="721"/>
+	<SubTexture name="press0003" x="1300" y="10" width="1280" height="721"/>
+	<SubTexture name="press0004" x="2590" y="10" width="1280" height="721"/>
+	<SubTexture name="press0005" x="2590" y="10" width="1280" height="721"/>
+	<SubTexture name="press0006" x="2590" y="10" width="1280" height="721"/>
+	<SubTexture name="press0007" x="2590" y="10" width="1280" height="721"/>
+	<SubTexture name="press0008" x="10" y="741" width="1280" height="721"/>
+	<SubTexture name="press0009" x="10" y="741" width="1280" height="721"/>
+	<SubTexture name="press0010" x="1300" y="741" width="1280" height="721"/>
+	<SubTexture name="press0011" x="1300" y="741" width="1280" height="721"/>
+	<SubTexture name="press0012" x="2590" y="741" width="1280" height="721"/>
+	<SubTexture name="press0013" x="2590" y="741" width="1280" height="721"/>
+	<SubTexture name="press0014" x="1300" y="741" width="1280" height="721"/>
+	<SubTexture name="press0015" x="1300" y="741" width="1280" height="721"/>
+	<SubTexture name="press0016" x="10" y="741" width="1280" height="721"/>
+	<SubTexture name="press0017" x="10" y="741" width="1280" height="721"/>
+	<SubTexture name="press0018" x="2590" y="10" width="1280" height="721"/>
+	<SubTexture name="press0019" x="2590" y="10" width="1280" height="721"/>
+	<SubTexture name="press0020" x="1300" y="10" width="1280" height="721"/>
+	<SubTexture name="press0021" x="1300" y="10" width="1280" height="721"/>
+</TextureAtlas>
